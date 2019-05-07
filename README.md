@@ -1,0 +1,1 @@
+# elementary-grub-theme
